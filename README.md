@@ -7,6 +7,11 @@
 I have used my personal data to create a project, where I have analyzed my cricket data using Excel, SQL and created a dashboard in Tableau.
 The data used contained 117 (t20) matches, dates ranging from Late 2020 to early 2022, I have manually created data for my performances in #Excel.
 
+![Dashboard](batting db.PNG)
+
+![Batting DB](https://github.com/Ujin-prabu/Stats_Analysis/assets/116655082/a88c3146-5a44-4eed-9b1a-660976805ab1)
+
+
 ### Data Source 
 
 Personal cricket Data: The primary data set used is the "My_stats.xlsx" file, containing the Details of all 117 matches.
