@@ -20,7 +20,7 @@ Personal cricket Data: The primary data set used is the "My_stats.xlsx" file, co
 
 1) Excel  (collecting and cleaning data)
 2) Sql Server (Data Analysis)
-3) Tableau (creating a report)
+3) Tableau (creating a report) [Tableau Dashboard link](https://public.tableau.com/views/PSCdashboard/fieldingDB?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Exploratory Data Analysis(EDA)
 1) overall Runs scored / wickets taken
